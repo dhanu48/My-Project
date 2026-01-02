@@ -17,15 +17,17 @@ A simple full-stack web application built using Node.js, Express, and Bootstrap 
 
 ## How to Run Locally
 1. Clone the repository  
-   ```bash
+   ```
    git clone <your-repo-link>
-Install dependencies
-
-npm install
-Start the server
-npm start
-Open in browser
-http://localhost:5000
+2. Install dependencies
+   ```
+   npm install
+4. Start the server
+   ```
+   npm start
+6. Open in browser
+   ```
+   http://localhost:5000
 
 ## API Endpoints
 - GET /students → Fetch all student records
