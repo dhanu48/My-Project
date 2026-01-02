@@ -2,7 +2,7 @@
 
 A simple full-stack web application built using Node.js, Express, and Bootstrap to manage student records efficiently.
 
-##Features
+##**Features**
 -Add student details
 -View all student records
 -Delete student records
